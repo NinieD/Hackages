@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 48 (47110) - http://www.bohemiancoding.com/sketch -->
+    <title>logo/vuejs</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo/vuejs" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="hackcamp_logo_vuejs" transform="translate(1.000000, 4.000000)">
+                <g id="g10" transform="translate(32.000000, 27.500000) scale(-1, 1) rotate(-180.000000) translate(-32.000000, -27.500000) ">
+                    <g id="g12" opacity="0.6" transform="translate(0.019722, 0.002700)">
+                        <polygon id="path14" points="38.3724336 53.3764968 31.2209209 41.0371067 24.0694083 53.3764968 0.28354015 53.3764968 31.2209209 0 62.1583017 53.3764968"></polygon>
+                    </g>
+                    <polygon id="Shape" points="49.808553 53.3764968 31.2524254 21.3505987 12.6962978 53.3764968 0.315044611 53.3764968 31.2524254 0 62.1898062 53.3764968"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 48 (47110) - http://www.bohemiancoding.com/sketch -->
+    <title>logo/angular</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo/angular" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="social-angular">
+                <polygon id="Shape" points="26 32 38 32 31.9994343 19"></polygon>
+                <path d="M31.9972857,0 L0,11.4285714 L6.58857143,50.2857143 L32,64 L57.3928571,50.2857143 L64,11.4285714 L31.9972857,0 Z M44.5714286,45.7142857 L40.773,37.7142857 L23.2262857,37.7142857 L19.4285714,45.7142857 L13.7142857,45.7142857 L32,5.71428571 L50.2857143,45.7142857 L44.5714286,45.7142857 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
